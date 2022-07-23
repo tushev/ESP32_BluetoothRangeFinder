@@ -1,5 +1,5 @@
 # ESP32 Bluetooth RangeFinder (with OLED 128x32 display)
-![](https://img.shields.io/badge/platform-Arduino--ESP32-brightgreen) [![CodeFactor](https://www.codefactor.io/repository/github/tushev/esp32_bluetoothrangefinder_oled128x32/badge)](https://www.codefactor.io/repository/github/tushev/esp32_bluetoothrangefinder_oled128x32)
+![](https://img.shields.io/badge/platform-Arduino--ESP32-brightgreen) [![CodeFactor](https://www.codefactor.io/repository/github/tushev/esp32_bluetoothrangefinder/badge)](https://www.codefactor.io/repository/github/tushev/esp32_bluetoothrangefinder)
 
 A **very** simple RSSI Bluetooth monitor. Can be used as an approximate rangefinder.
 
